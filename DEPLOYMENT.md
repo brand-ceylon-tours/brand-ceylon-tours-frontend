@@ -1,6 +1,14 @@
 # Deployment Guide - Brand Ceylon Tours Frontend
 
-## Recommended Hosting: Vercel
+> **Note:** This project is currently deployed on **Netlify**. For detailed Netlify deployment instructions, see [NETLIFY_DEPLOYMENT.md](./NETLIFY_DEPLOYMENT.md)
+
+## Current Hosting: Netlify
+
+The application is deployed on Netlify with automatic deployments from GitHub.
+
+## Alternative Hosting Options
+
+### Vercel (Alternative)
 
 **Why Vercel?**
 - ✅ Made by the creators of Next.js
@@ -132,4 +140,5 @@ If you prefer Netlify:
 3. ✅ Set up custom domain (optional)
 4. ✅ Configure analytics (optional)
 5. ✅ Set up monitoring (optional)
+
 
